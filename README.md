@@ -12,3 +12,5 @@ This open source code provides the actual practice of calculating the spectral g
 - pyscf >= 2.5.0
 - mindspore == 2.5.0
 - mindquantum == 0.10.0
+
+'pip install -r requirements.txt' will fail because mindquantum requires rich==10.9.0, while other packages require rich>=12.0. However, this conflict doesn't affect the operation of the programme, you can use rich==12.0.

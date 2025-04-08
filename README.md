@@ -4,11 +4,11 @@ This open source code provides the actual practice of calculating the spectral g
 
 ## Requirement
 
-jax == 0.5.3
-jaxlib == 0.5.3
-netket >= 3.16.0
-numpy >= 1.24.0, < 2.0.0
-scipy >= 1.12.0
-pyscf >= 2.5.0
-mindspore == 2.5.0
-mindquantum == 0.10.0
+- jax == 0.5.3
+- jaxlib == 0.5.3
+- netket >= 3.16.0
+- numpy >= 1.24.0, < 2.0.0
+- scipy >= 1.12.0
+- pyscf >= 2.5.0
+- mindspore == 2.5.0
+- mindquantum == 0.10.0
